@@ -10,7 +10,7 @@ Welcome to the AI Projects Notebooks repository! This repository houses a collec
 ### How to Use
 Clone the repository to your local machine:
 ```
-git clone https://github.com/your-username/ai-projects-notebooks.git
+git clone https://github.com/akewarmayur/AIProjectNotebooks.git
 
 ```
 Navigate through the folders corresponding to the AI project of your interest. Open the Jupyter Notebooks to interactively learn and experiment with AI concepts. Experiment with different models, datasets, and parameters to enhance your understanding.
